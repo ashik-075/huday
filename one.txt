@@ -5,3 +5,4 @@ bug fixing previous line was not needed
 this change is made on feature10 branch
 
 we are in branch feature2. we modified this file.
+new text from main branch
