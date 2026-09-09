@@ -2,8 +2,6 @@ this is our first notepad file
 this is for practice purpose
 bug fixing previous line was not needed
 
-<<<<<<< HEAD
 this change is made on feature10 branch
-=======
+
 we are in branch feature2. we modified this file.
->>>>>>> 915e1e8b6abef82e0b517a3cb81045ecd9c24808
